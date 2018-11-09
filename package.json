@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "https://github.com/ghckss/typescript-prac.git",
   "author": "HwangHoChan <ghckss93@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \"node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^1.0.30"
+  },
+  "dependencies": {
+    "typescript": "^3.1.6"
+  }
 }
