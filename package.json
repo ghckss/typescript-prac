@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "study typescript",
+  "main": "index.js",
+  "repository": "https://github.com/ghckss/typescript-prac.git",
+  "author": "HwangHoChan <ghckss93@gmail.com>",
+  "license": "MIT"
+}
