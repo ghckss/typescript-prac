@@ -41,5 +41,7 @@ typings/
 
 .yarn-integrity
 
+.vscode/
+
 .env
 dist/
